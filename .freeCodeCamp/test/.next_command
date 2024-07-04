@@ -27,3 +27,4 @@ echo hello terminal
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=bikes
 psql --username=freecodecamp --dbname=bikes
+psql --username=freecodecamp --dbname=bikes
