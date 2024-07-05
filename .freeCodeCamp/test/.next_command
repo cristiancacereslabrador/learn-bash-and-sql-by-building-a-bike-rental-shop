@@ -139,3 +139,4 @@ psql --username=freecodecamp --dbname=bikes
 [[ a1 =~ [0-9] ]]
 [[ a =~ [0-9] ]]
 [[ a1 =~ ^[0-9]$ ]]
+[[ 1 =~ ^[0-9]$ ]]
