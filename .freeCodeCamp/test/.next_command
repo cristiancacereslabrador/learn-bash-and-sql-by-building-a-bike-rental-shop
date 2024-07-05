@@ -62,3 +62,6 @@ chmod +x bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
+UPDATE bikes SET available = FALSE
+UPDATE bikes SET available = false WHERE available = true
