@@ -137,3 +137,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=bikes
 [[ a =~ [0-9] ]]
 [[ a1 =~ [0-9] ]]
+[[ a =~ [0-9] ]]
+[[ a1 =~ ^[0-9]$ ]]
