@@ -142,3 +142,8 @@ psql --username=freecodecamp --dbname=bikes
 [[ 1 =~ ^[0-9]$ ]]
 [[ 11 =~ ^[0-9]$ ]]
 [[ 11 =~ ^[0-9]+$ ]]
+[[ ./bike-shop.sh =~ ^[0-9]+$ ]]
+[[ ./bike-shop.sh =~ ^[0-9]+$ ]]
+[[ ./bike-shop.sh =~ ^[0-9]+$ ]]
+[[ ./bike-shop.sh =~ ^[0-9]+$ ]]
+[[ ! 11 =~ ^[0-9]+$ ]]
