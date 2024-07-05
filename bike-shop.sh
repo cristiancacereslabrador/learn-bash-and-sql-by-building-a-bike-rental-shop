@@ -61,10 +61,12 @@ RENT_MENU() {
         CUSTOMER_NAME=$($PSQL "SELECT name FROM customers WHERE phone = '$PHONE_NUMBER'")
         #if customer doesn't exist
         if [[ -z $CUSTOMER_NAME ]]
-then
-  # get new customer name
-  # insert new customer
-fi
+        then
+          # get new customer name
+          echo -e "\nWhat's your name?"
+
+          # insert new customer
+        fi
 
 
       fi
