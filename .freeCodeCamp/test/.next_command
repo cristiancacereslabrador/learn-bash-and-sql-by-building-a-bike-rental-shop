@@ -302,3 +302,4 @@ __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=bikes
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
