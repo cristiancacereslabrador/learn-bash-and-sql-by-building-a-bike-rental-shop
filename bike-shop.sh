@@ -101,7 +101,14 @@ RETURN_MENU() {
   then
     # send to main menu
     MAIN_MENU "I could not find a record for that phone number."
-  fi
+  else
+  # get customer's rentals
+
+  # if no rentals
+
+  # send to main menu
+fi
+
 
 }
 
