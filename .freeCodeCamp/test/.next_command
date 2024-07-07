@@ -303,3 +303,4 @@ psql --username=freecodecamp --dbname=bikes
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
